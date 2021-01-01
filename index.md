@@ -11,7 +11,7 @@ It is written in **Python**
    
 ## Here is an example:
 
-![image](quad_eq.png)<br/>
+![image](./quad_eq.png)<br/>
 
 It gives the result within a second<br/><br/>
 If you find any issue please create an issue [here](https://github.com/SKGEzhil/Quadratic-Equation-Solver/issues) <br/>
