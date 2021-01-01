@@ -14,7 +14,7 @@ It is written in **Python**
 ![image](quad_eq.png)<br/>
 
 It gives the result within a second<br/><br/>
-If you find any issue please create an issue [here](https://github.com/SKGEzhil/Quadratic-Equation-Solver/issues) <br/>
+If you find any issue please create an issue [here](https://github.com/SKGEzhil/Quadratic-Equation-Solver/issues) or create a [pull request](https://github.com/SKGEzhil/Quadratic-Equation-Solver/pulls) <br/>
 To suggest any feature create an issue [here](https://github.com/SKGEzhil/Quadratic-Equation-Solver/issues) or contact ***skgezhil2005@gmail.com*** <br/>
 To view the official repository on github [click here](https://github.com/SKGEzhil/Quadratic-Equation-Solver) <br/>
 To view my official github page [click here](https://github.com/SKGEzhil) <br/>
